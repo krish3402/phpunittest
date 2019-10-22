@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1571717720">
+  <project timestamp="1571717720">
+    <file name="D:\php_test\tests\EmailTest.php">
+      <class name="EmailTest" namespace="global">
+        <metrics complexity="3" methods="3" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="11" coveredstatements="10" elements="14" coveredelements="12"/>
+      </class>
+      <line num="10" type="method" name="testCanBeCreatedFromValidEmailAddress" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="12" type="stmt" count="1"/>
+      <line num="13" type="stmt" count="1"/>
+      <line num="14" type="stmt" count="1"/>
+      <line num="16" type="stmt" count="1"/>
+      <line num="18" type="method" name="testCannotBeCreatedFromInvalidEmailAddress" visibility="public" complexity="1" crap="1.04" count="1"/>
+      <line num="20" type="stmt" count="1"/>
+      <line num="22" type="stmt" count="1"/>
+      <line num="23" type="stmt" count="0"/>
+      <line num="25" type="method" name="testCanBeUsedAsString" visibility="public" complexity="1" crap="1" count="1"/>
+      <line num="27" type="stmt" count="1"/>
+      <line num="28" type="stmt" count="1"/>
+      <line num="29" type="stmt" count="1"/>
+      <line num="31" type="stmt" count="1"/>
+      <metrics loc="32" ncloc="32" classes="1" methods="3" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="11" coveredstatements="10" elements="14" coveredelements="12"/>
+    </file>
+    <metrics files="1" loc="32" ncloc="32" classes="1" methods="3" coveredmethods="2" conditionals="0" coveredconditionals="0" statements="11" coveredstatements="10" elements="14" coveredelements="12"/>
+  </project>
+</coverage>
